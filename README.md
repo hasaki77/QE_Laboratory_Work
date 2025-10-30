@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Quick Start (Setup and Execution)
+## ⚙️ Setup and Execution
 
 This project is primarily designed for running calculations on a **remote server**.
 
