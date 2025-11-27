@@ -23,6 +23,7 @@ An isolated environment is required to run the Jupyter Notebooks.
     ```bash
     conda env create -f environment.yml
     conda activate lab_env
+    pip install git+https://github.com/Griffin-Group/pymatgen-io-espresso
     ```
 2.  **Activating mpirun**
     Before executing any calculation, ensure the QE environment variables are correctly sourced. Check, that MPI is working:
