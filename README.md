@@ -45,8 +45,8 @@ Each lab assignment is presented as a separate Jupyter Notebook, which includes 
 | No. | Assignment Title | Primary Objective | File Link |
 | :---: | :--- | :--- | :--- |
 | **1** | **Structure Optimization** | Optimize cut-off energy and k-points parameters, followed by structure relaxation. | [`1_Structure_Optimization.ipynb`](1_Structure_Optimization.ipynb) |
-| **2** | **Phonon & Electronic Properties** | Calculate phonon/electronic Density of States (DOS) and band structures. | [`2_Phonon_Electronic_Properties.ipynb`](2_Phonon_Electronic_Properties.ipynb) |
-| **3** | **MLIP Training** | Implement Molecular Dynamics to generate structures used for training a Machine Learning Interatomic Potential (MLIP). | [`3_MLIP_Training.ipynb`](3_MLIP_Training.ipynb) |
+| **2** | **Phonon & Electronic Properties** | Calculate phonon/electronic Density of States (DOS) and band structures. | [`2_Electron_Phonon_props.ipynb`](2_Electron_Phonon_props.ipynb) |
+| **3** | **MLIP Training** | Implement Molecular Dynamics to generate structures used for training a Machine Learning Interatomic Potential (MLIP). | [`3_MLIP_calculation.ipynb`](3_MLIP_calculation.ipynb) |
 
 ### 🔬 Project Assignment
 In addition to the labs, students must select a **second structure** (of their own choice) to implement the **Final Project**.
